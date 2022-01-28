@@ -6,6 +6,17 @@
   "default_locale": "en-us",
   "settings": [
     {
+      "label": "answers_variables",
+      "variables": [
+        {
+          "identifier": "business id",
+          "type": "string",
+          "label": "business id",
+          "value": "3609030"
+        }
+      ]
+    },
+    {
       "label": "colors_group_label",
       "variables": [
         {
