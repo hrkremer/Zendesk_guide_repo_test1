@@ -9,9 +9,10 @@
       "label": "answers_variables",
       "variables": [
         {
-          "identifier": "business id",
-          "type": "string",
-          "label": "business id",
+          "identifier": "business_id",
+          "type": "color",
+          "description": "business_id",
+          "label": "business_id",
           "value": "3609030"
         }
       ]
