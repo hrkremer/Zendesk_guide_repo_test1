@@ -10,7 +10,7 @@
       "variables": [
         {
           "identifier": "business_id",
-          "type": "color",
+          "type": "text",
           "description": "business_id",
           "label": "business_id",
           "value": "3609030"
